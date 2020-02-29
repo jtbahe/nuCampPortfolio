@@ -1,0 +1,46 @@
+#intro {
+    height: 100vh;
+  }
+  
+  #work {
+    background-color: darkgrey;
+  }
+  
+  .site-footer {
+    background-color: lightgrey;
+  }
+  
+  .work-row {
+    justify-content: space-around;
+  }
+  
+  .card {
+    margin-bottom: 10px;
+  }
+  
+  .card-body {
+    background-color: lightgray;
+  }
+  
+  .intro-div {
+    display: inline;
+  }
+
+  .site-footer {
+    margin-top: 10px;
+    justify-content: center;
+  }
+  
+  img {
+    width: 150px;
+    height: auto;
+  }
+
+  #intro {
+    text-align: center;
+  }
+  
+  
+  
+  
+  
